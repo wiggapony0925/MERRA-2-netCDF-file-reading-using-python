@@ -17,3 +17,4 @@ nc_file = netCDF4.Dataset('/path/to/M2TMNXSLV.nc')
 # read in variables
 var1 = nc_file.variables['var1'][:]
 var2 = nc_file.variables['var2'][:]
+# MERRA-2-netCDF-file-reading-using-python
